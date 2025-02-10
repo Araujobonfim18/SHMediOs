@@ -74,7 +74,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'junction.proxy.rlwy.net:47794',
+	'hostname' => 'mysql.railway.internal',
 	'username' => 'root',
 	'password' => 'vNvTHqYmYsHWpqzfDDTffjjaMkKqYNIX',
 	'database' => 'railway',
