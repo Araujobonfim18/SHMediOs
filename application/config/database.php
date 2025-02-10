@@ -74,10 +74,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'dpg-cukl29rtq21c73e8nri0-a',
-	'username' => 'root',
-	'password' => 'OmalqvSqS1w2lI7a2ATHeODLBFLilyMh',
-	'database' => 'smh',
+	'hostname' => 'mysql.smh.kinghost.net',
+	'username' => 'smh03',
+	'password' => 'Passw0rd456',
+	'database' => 'smh03',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
