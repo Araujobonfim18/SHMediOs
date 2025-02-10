@@ -1,5 +1,5 @@
 <?php
-$servername = "shmedios-production.up.railway.app";  // MYSQLHOST
+$servername = "mysql.railway.internal";  // MYSQLHOST
 $username = "root";                      // MYSQLUSER
 $password = "vNvTHqYmYsHWpqzfDDTffjjaMkKqYNIX"; // MYSQLPASSWORD
 $database = "railway";                   // MYSQLDATABASE
