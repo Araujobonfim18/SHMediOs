@@ -74,7 +74,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'shmedios-production.up.railway.app',
+	'hostname' => 'junction.proxy.rlwy.net:47794',
 	'username' => 'root',
 	'password' => 'vNvTHqYmYsHWpqzfDDTffjjaMkKqYNIX',
 	'database' => 'railway',
