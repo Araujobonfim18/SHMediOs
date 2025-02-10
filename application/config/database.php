@@ -73,11 +73,11 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	'dsn'	=> '',
-	'hostname' => 'mysql.railway.internal',
+	'dsn'	=> 'postgresql://root:OmalqvSqS1w2lI7a2ATHeODLBFLilyMh@dpg-cukl29rtq21c73e8nri0-a/smh',
+	'hostname' => 'dpg-cukl29rtq21c73e8nri0-a',
 	'username' => 'root',
-	'password' => 'vNvTHqYmYsHWpqzfDDTffjjaMkKqYNIX',
-	'database' => 'railway',
+	'password' => 'OmalqvSqS1w2lI7a2ATHeODLBFLilyMh',
+	'database' => 'smh',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
