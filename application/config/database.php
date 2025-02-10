@@ -74,10 +74,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '127.0.0.1',
+	'hostname' => 'mysql.railway.internal',
 	'username' => 'root',
-	'password' => '',
-	'database' => 'medios',
+	'password' => 'vNvTHqYmYsHWpqzfDDTffjjaMkKqYNIX',
+	'database' => 'railway',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
