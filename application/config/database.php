@@ -73,7 +73,7 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	'dsn'	=> 'postgresql://root:OmalqvSqS1w2lI7a2ATHeODLBFLilyMh@dpg-cukl29rtq21c73e8nri0-a/smh',
+	'dsn'	=> '',
 	'hostname' => 'dpg-cukl29rtq21c73e8nri0-a',
 	'username' => 'root',
 	'password' => 'OmalqvSqS1w2lI7a2ATHeODLBFLilyMh',
