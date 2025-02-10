@@ -74,7 +74,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'mysql.railway.internal',
+	'hostname' => 'shmedios-production.up.railway.app',
 	'username' => 'root',
 	'password' => 'vNvTHqYmYsHWpqzfDDTffjjaMkKqYNIX',
 	'database' => 'railway',
